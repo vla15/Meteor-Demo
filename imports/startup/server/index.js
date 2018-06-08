@@ -1,1 +1,1 @@
-import '/imports/api/methods.js';
+import '/imports/api/posts/methods.js';
